@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vijay Chavan - Contact</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #0078D4;
+        }
+        a {
+            color: #0078D4;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Vijay Chavan</h1>
+        <h2>RPA Developer</h2>
+        <p><strong>Phone:</strong> <a href="tel:8698261292">8698261292</a></p>
+        <p><strong>Email:</strong> <a href="mailto:2vjaychavan@gmail.com">2vjaychavan@gmail.com</a></p>
+        <p><strong>Address:</strong> Pune</p>
+        <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/vijaychavan2612" target="_blank">linkedin.com/in/vijaychavan2612</a></p>
+    </div>
+</body>
+</html>
